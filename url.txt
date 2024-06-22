@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Kumarmauurya/gardats/main/pairnumber.txt
+https://tsgad.s3.ap-south-1.amazonaws.com/pairnumber.txt
