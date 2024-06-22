@@ -1,1 +1,1 @@
-https://gadarbucket.s3.eu-north-1.amazonaws.com/pairnumber.txt
+https://raw.githubusercontent.com/Kumarmauurya/gardats/main/pairnumber.txt
