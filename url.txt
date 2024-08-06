@@ -1,1 +1,1 @@
-https://gadartas.s3.eu-central-1.amazonaws.com/pairnumber.txt
+https://tecgad.s3.us-east-2.amazonaws.com/pairnumber.txt
