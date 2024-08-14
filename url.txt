@@ -1,1 +1,1 @@
-https://tecgad.s3.us-east-2.amazonaws.com/pairnumber.txt
+https://gadtac.s3.us-east-2.amazonaws.com/pairnumber.txt
