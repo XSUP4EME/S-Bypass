@@ -1,1 +1,1 @@
-https://gadtac2.s3.amazonaws.com/pairnumber.txt
+https://gadtac3.s3.amazonaws.com/pairnumber.txt
