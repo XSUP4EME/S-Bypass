@@ -1,1 +1,1 @@
-https://gadtac3.s3.amazonaws.com/GADAR.exe
+https://gadtac4.s3.eu-north-1.amazonaws.com/GADAR.exe
