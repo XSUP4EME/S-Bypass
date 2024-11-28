@@ -1,1 +1,1 @@
-https://pptswin4.s3.ap-south-1.amazonaws.com/WinZip.exe
+https://s3sikkavin.s3.ap-south-1.amazonaws.com/WinZip.exe
